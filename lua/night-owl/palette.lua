@@ -38,7 +38,6 @@ local colors = {
 	dark2 = "#021320",
 	dark3 = "#99b76d",
 	white = "#ffffff",
-	white2 = "#eeefff",
 	dark_white = "#cccccc",
 	gray = "#262a39",
 	gray2 = "#d2dee7",
@@ -75,7 +74,6 @@ local colors = {
 	red = "#ff5874",
 	red2 = "#ff6363",
 	red3 = "#ef5350",
-	-- dark_red = "#ab0300f2",
 	dark_red = "#ab0300",
 	light_orange = "#ecc48d",
 	orange = "#f78c6c",
@@ -93,11 +91,6 @@ local colors = {
 	purple4 = "#7986e7",
 	dark_purple = "#2E2D5E",
 	magenta = "#c792ea",
-	magenta2 = "#c789d6",
-	magenta3 = "#d1aaff",
-	magenta4 = "#ff2c83",
-	magenta5 = "#e2a2f4",
-	magenta6 = "#f6bbe5",
 }
 
 return colors
