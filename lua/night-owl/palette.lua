@@ -1,9 +1,9 @@
 local colors = {
 	fg = "#d6deeb",
 	bg = "#021727",
-	search_bg = "#2C5A99",
-	search_fg = "#FFFFFF",
-	inc_search_bg = "#2C5A99",
+	search_bg = "#000000",
+	search_fg = "#0058FF",
+	inc_search_bg = "#ff0000",
 	inc_search_fg = "#FFFFFF",
 	cur_search_bg = "#000000",
 	cur_search_fg = "#0058FF",
